@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9f8450b100e6954a890d0079a0eb7fe, type: 3}
+  m_Name: CollectParticle_PrefabListSO
+  m_EditorClassIdentifier: 
+  list:
+  - {fileID: 11400000, guid: 917281c888e2fcf4bb78630e11490f16, type: 2}
+  - {fileID: 11400000, guid: 940f0548c2905434e8801176dafd59d3, type: 2}
+  - {fileID: 11400000, guid: bfb46cae35bd9634b94cf167601418fd, type: 2}
+  - {fileID: 11400000, guid: 13c87207e13be394890b12aa12f5ee6f, type: 2}

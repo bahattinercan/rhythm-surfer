@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9f8450b100e6954a890d0079a0eb7fe, type: 3}
+  m_Name: Obs_PrefabListSO
+  m_EditorClassIdentifier: 
+  list:
+  - {fileID: 11400000, guid: b39e78623052ed14d915ab54d2d75327, type: 2}
+  - {fileID: 11400000, guid: 08cc9e7e061661f449582215db95a45a, type: 2}
+  - {fileID: 11400000, guid: 52c203f398335ae4bbb7241498926932, type: 2}
+  - {fileID: 11400000, guid: 37c4d48a5c38cf945aaf6bff547724c4, type: 2}
